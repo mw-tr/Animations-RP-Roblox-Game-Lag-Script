@@ -6,3 +6,9 @@ v_u_6:FireServer()
 task.wait(fire_Delay) -- do not remove it will just crash ur client and not the server
   end
 end
+--[[
+You need to execute it a bunch of times 
+for it to actually start lagging the server
+
+
+--]]
