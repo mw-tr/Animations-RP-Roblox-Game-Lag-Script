@@ -1,0 +1,17 @@
+-- fling method 1
+
+--[[
+    Spawn the car
+    teleport uptop of a player while in the car
+    exit the car
+    fling the car
+--]]
+
+------------------
+--fling method 2 (Best One but might get patched)
+
+--[[
+   equip the gun by clicking on items 
+   *make sure that the gun is equipped 
+    use a script like a touch fling script
+--]]
