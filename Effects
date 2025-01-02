@@ -1,0 +1,11 @@
+--[[
+--Fe Effects
+--]]
+
+---------------------------------------------------
+local v_u_2 = game:GetService("ReplicatedStorage")
+local v_u_4 = v_u_2.SpecialToolEvents:WaitForChild("ActivateScytheEffect")
+ v_u_4:FireServer()
+---------------------------------------------------
+ local v_u_6 = game.ReplicatedStorage:FindFirstChild("BanHammerActivate")
+ v_u_6:FireServer()
